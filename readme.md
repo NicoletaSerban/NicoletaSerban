@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/nicoletaserban" target="blank"><img align="center" src="icons/linked.png" alt="LinkedIn Account" width="40" /></a>
 <!-- <a href="https://instagram.com/code_2_inspire" target="blank"><img align="center" src="icons/instagram.png" alt="Instagram Account" width="40" /></a> -->
 <a href="https://github.com/NicoletaSerban" target="blank"><img align="center" src="icons/github.png" alt="Github Account" width="40" /></a>
-<a href="mailto:nicoleta.ban@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a> -->
+<a href="mailto:nicoleta.ban@gmail.com" target="blank"><img align="center" src="icons/mail.png" alt="E-Mail" width="40" /></a>
 
 <h1 align="center">Technologies</h1>
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5D3FD3&style=plastic&logo=git"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdelvillar&theme=tokyonight_duo" alt="lucasdelvillar" /></p> -->
 
 
 <!-- ## Connect with me  
