@@ -139,6 +139,7 @@ Here are some ideas to get you started:
         <strong>HTML, CSS, JavaScript, Node.js, EJS, Express, Bootstrap, SCSS, JSON, and NPM</strong> - Pawsitively Adorable in an app for animal lovers looking to adopt or foster animals with a user-friendly interface and extensive database of available animals
       </p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Dog Food API</h3>
       <br />
@@ -158,7 +159,6 @@ Here are some ideas to get you started:
         <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
       </p>
     </td>
-    
   </tr>
   <tr>
     
