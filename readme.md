@@ -137,13 +137,16 @@ Here are some ideas to get you started:
        <td width="50%" valign="top">
       <h3 align="center">Dog Food API</h3>
       <br />
-      <a href="https://github.com/NicoletaSerban/dogFoodApi" target="_blank">
+      <a href="https://dog-food-api.onrender.com/" target="_blank">
         <img src="https://i.imgur.com/kBgNo1P.png" />
       </a>
       <br />
       <p align="center">
         <a href="hhttps://github.com/NicoletaSerban/dogFoodApi" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://dog-food-api.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
