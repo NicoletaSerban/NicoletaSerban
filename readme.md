@@ -171,6 +171,9 @@ Here are some ideas to get you started:
         <a href="hhttps://github.com/NicoletaSerban/dogFoodApi" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
+        <a href="https://dog-food-api.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
       </p>
       <p>
         <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
