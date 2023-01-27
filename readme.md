@@ -140,27 +140,6 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Inn Keep</h3>
-      <br />
-      <a href="https://inn-keep.onrender.com" target="_blank">
-        <img src="https://user-images.githubusercontent.com/102362172/215077290-3b4d7d3b-27e6-45a5-b0cd-ba38a4af5628.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/NicoletaSerban/InnKeep" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://inn-keep.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-        </a>
-      </p>
-      <p>
-        <strong>TML, CSS, JavaScript, Node.js, EJS, Express, Tailwindcss and NPM</strong> - maintenance management app for hotels, inns, and other similar establishments
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">Dog Food API</h3>
       <br />
       <a href="https://github.com/NicoletaSerban/dogFoodApi" target="_blank">
@@ -171,11 +150,18 @@ Here are some ideas to get you started:
         <a href="hhttps://github.com/NicoletaSerban/dogFoodApi" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
+        <a href="https://dog-food-api.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
       </p>
       <p>
         <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
       </p>
     </td>
+    
+  </tr>
+  <tr>
+    
     <td width="50%" valign="top">
       <h3 align="center">Website for Consulting Firm</h3>
       <br />
@@ -193,6 +179,25 @@ Here are some ideas to get you started:
       </p>
       <p>
         <strong> JavaScript, HTML, CSS, Bootstrap</strong> - A professional website for a Romanian consulting business
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Inn Keep</h3>
+      <br />
+      <a href="https://inn-keep.onrender.com" target="_blank">
+        <img src="https://user-images.githubusercontent.com/102362172/215077290-3b4d7d3b-27e6-45a5-b0cd-ba38a4af5628.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/NicoletaSerban/InnKeep" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://inn-keep.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>TML, CSS, JavaScript, Node.js, EJS, Express, Tailwindcss and NPM</strong> - maintenance management app for hotels, inns, and other similar establishments
       </p>
     </td>
   </tr>
@@ -238,10 +243,6 @@ Here are some ideas to get you started:
   </tr> -->
 </table>
 
-
-  
-
-<br/>  
 
   
 
