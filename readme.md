@@ -110,11 +110,6 @@ Here are some ideas to get you started:
 <br/>   -->
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NicoletaSerban&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 ## Projects
 
 <!-- PROJECTS BEGIN -->
@@ -247,5 +242,10 @@ Here are some ideas to get you started:
 <br/>  
 
   
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NicoletaSerban&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
