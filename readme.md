@@ -139,48 +139,6 @@ Here are some ideas to get you started:
         <strong>HTML, CSS, JavaScript, Node.js, EJS, Express, Bootstrap, SCSS, JSON, and NPM</strong> - Pawsitively Adorable in an app for animal lovers looking to adopt or foster animals with a user-friendly interface and extensive database of available animals
       </p>
     </td>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">Dog Food API</h3>
-      <br />
-      <a href="https://github.com/NicoletaSerban/dogFoodApi" target="_blank">
-        <img src="https://i.imgur.com/kBgNo1P.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="hhttps://github.com/NicoletaSerban/dogFoodApi" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://dog-food-api.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-        </a>
-      </p>
-      <p>
-        <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">Website for Consulting Firm</h3>
-      <br />
-      <a href="https://www.ants-fh.ro/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/102362172/215091546-d13ae7b4-578f-46e9-a938-40c786040c3d.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/NicoletaSerban/AntsConsultant" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://www.ants-fh.ro/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-        </a>
-      </p>
-      <p>
-        <strong> JavaScript, HTML, CSS, Bootstrap</strong> - A professional website for a Romanian consulting business
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">Inn Keep</h3>
       <br />
@@ -198,6 +156,43 @@ Here are some ideas to get you started:
       </p>
       <p>
         <strong>TML, CSS, JavaScript, Node.js, EJS, Express, Tailwindcss and NPM</strong> - maintenance management app for hotels, inns, and other similar establishments
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Dog Food API</h3>
+      <br />
+      <a href="https://github.com/NicoletaSerban/dogFoodApi" target="_blank">
+        <img src="https://i.imgur.com/kBgNo1P.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="hhttps://github.com/NicoletaSerban/dogFoodApi" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Website for Consulting Firm</h3>
+      <br />
+      <a href="https://www.ants-fh.ro/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/102362172/215091546-d13ae7b4-578f-46e9-a938-40c786040c3d.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/NicoletaSerban/AntsConsultant" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://www.ants-fh.ro/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong> JavaScript, HTML, CSS, Bootstrap</strong> - A professional website for a Romanian consulting business
       </p>
     </td>
   </tr>
@@ -244,9 +239,10 @@ Here are some ideas to get you started:
 </table>
 
 
-
   
+
 <br/>  
 
+  
 
-
+<br/>  
