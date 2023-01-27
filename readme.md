@@ -136,7 +136,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, JavaScript, Node.js, EJS, Express, Boostrap, SCSS, JSON, and NPM</strong> - Pawsitively Adorable in an app for animal lovers looking to adopt or foster animals with a user-friendly interface and extensive database of available animals
+        <strong>HTML, CSS, JavaScript, Node.js, EJS, Express, Bootstrap, SCSS, JSON, and NPM</strong> - Pawsitively Adorable in an app for animal lovers looking to adopt or foster animals with a user-friendly interface and extensive database of available animals
       </p>
     </td>
     <td width="50%" valign="top">
@@ -176,25 +176,25 @@ Here are some ideas to get you started:
         <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
       </p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Twitch Chat Poll Visualizer</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Website for Consulting Firm</h3>
       <br />
-      <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+      <a href="https://www.ants-fh.ro/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        <a href="https://github.com/NicoletaSerban/AntsConsultant" target="_blank">
+          <img src="https://user-images.githubusercontent.com/102362172/215091546-d13ae7b4-578f-46e9-a938-40c786040c3d.png" />
         </a>
-        <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+        <a href="https://www.ants-fh.ro/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
+        <strong> JavaScript, HTML, CSS, Bootstrap</strong> - A professional website for a Romanian consulting business
       </p>
-    </td> -->
+    </td>
   </tr>
   <!-- <tr>
     <td width="50%" valign="top">
