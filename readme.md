@@ -124,7 +124,7 @@ Here are some ideas to get you started:
       <h3 align="center">Pawsitively Adorable</h3>
       <br />
       <a href="https://pawsitively.onrender.com/" target="_blank">
-        <video src="https://user-images.githubusercontent.com/102362172/212883507-d97305c9-1c58-41ff-b0c0-2a773f10a13b.gif" />
+        <img src="https://user-images.githubusercontent.com/102362172/212883507-d97305c9-1c58-41ff-b0c0-2a773f10a13b.gif" />
       </a>
       <br />
       <p align="center">
@@ -140,7 +140,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Tech Crunch Clone</h3>
+      <h3 align="center">Inn Keep</h3>
       <br />
       <a href="https://inn-keep.onrender.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/102362172/215077290-3b4d7d3b-27e6-45a5-b0cd-ba38a4af5628.png" />
@@ -150,7 +150,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/NicoletaSerban/InnKeep" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://github.com/NicoletaSerban/InnKeep" target="_blank">
+        <a href="https://inn-keep.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
@@ -246,11 +246,4 @@ Here are some ideas to get you started:
   
 
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
