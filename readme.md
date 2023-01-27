@@ -115,6 +115,129 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## Projects
+
+<!-- PROJECTS BEGIN -->
+<table bordercolor="#33bef5">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Pawsitively Adorable</h3>
+      <br />
+      <a href="https://pawsitively.onrender.com/" target="_blank">
+        <video src="https://user-images.githubusercontent.com/102362172/212883507-d97305c9-1c58-41ff-b0c0-2a773f10a13b.gif" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/NicoletaSerban/PawsitivelyAdorable" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://pawsitively.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>HTML, CSS, JavaScript, Node.js, EJS, Express, Boostrap, SCSS, JSON, and NPM</strong> - Pawsitively Adorable in an app for animal lovers looking to adopt or foster animals with a user-friendly interface and extensive database of available animals
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tech Crunch Clone</h3>
+      <br />
+      <a href=https://inn-keep.onrender.com" target="_blank">
+        <img src="https://user-images.githubusercontent.com/102362172/215077290-3b4d7d3b-27e6-45a5-b0cd-ba38a4af5628.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/NicoletaSerban/InnKeep" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://github.com/NicoletaSerban/InnKeep" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>TML, CSS, JavaScript, Node.js, EJS, Express, Tailwindcss and NPM</strong> - maintenance management app for hotels, inns, and other similar establishments
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Dog Food API</h3>
+      <br />
+      <a href="https://github.com/NicoletaSerban/dogFoodApi" target="_blank">
+        <img src="https://i.imgur.com/kBgNo1P.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="hhttps://github.com/NicoletaSerban/dogFoodApi" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong> JavaScript,HTML,JSON, NPM,</strong> - allows users to check whether a specific human food is safe or toxic for dogs to consume.
+      </p>
+    </td>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">Twitch Chat Poll Visualizer</h3>
+      <br />
+      <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
+      </p>
+    </td> -->
+  </tr>
+  <!-- <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Marketing Firm Website</h3>
+      <br />
+      <a href="https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
+        <img src="https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/4017934-Homepage-Wireframe-for-Marketing-Website/1920x1080.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/static-websites/tree/main/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>HTML, CSS, and git</strong> - Website of a Marketing & Design Firm
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Khan Academy Clone</h3>
+      <br />
+      <a href="https://rascaltwo.github.io/static-websites/Khan-Academy" target="_blank">
+        <img src="https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/Khan-Academy/1920x1080.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/static-websites/tree/main/Khan-Academy" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://rascaltwo.github.io/static-websites/Khan-Academy" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>HTML, CSS, and git</strong> - Clone of Khan Academy
+      </p>
+    </td>
+  </tr> -->
+</table>
+
   
 
 <br/>  
