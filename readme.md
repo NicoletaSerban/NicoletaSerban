@@ -180,12 +180,12 @@ Here are some ideas to get you started:
       <h3 align="center">Website for Consulting Firm</h3>
       <br />
       <a href="https://www.ants-fh.ro/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+        <img src="https://user-images.githubusercontent.com/102362172/215091546-d13ae7b4-578f-46e9-a938-40c786040c3d.png" />
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/NicoletaSerban/AntsConsultant" target="_blank">
-          <img src="https://user-images.githubusercontent.com/102362172/215091546-d13ae7b4-578f-46e9-a938-40c786040c3d.png" />
+          <img src="" />
         </a>
         <a href="https://www.ants-fh.ro/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
