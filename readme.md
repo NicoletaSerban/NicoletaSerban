@@ -140,9 +140,9 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Inn Keep</h3>
+      <h3 align="center">Tech Crunch Clone</h3>
       <br />
-      <a href=https://inn-keep.onrender.com" target="_blank">
+      <a href="https://inn-keep.onrender.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/102362172/215077290-3b4d7d3b-27e6-45a5-b0cd-ba38a4af5628.png" />
       </a>
       <br />
@@ -237,6 +237,7 @@ Here are some ideas to get you started:
     </td>
   </tr> -->
 </table>
+
 
   
 
