@@ -199,8 +199,7 @@ Here are some ideas to get you started:
       <h3 align="center">TicketBuddy</h3>
       <br />
       <a href="https://github.com/NicoletaSerban/TicketBuddy" target="_blank">
-        <img src="https://user-images.githubusercontent.com/102362172/215463592-313ad5b3-a0ca-4ecf-a47d-564513a64dd0.png"/>
-
+        <img src="https://user-images.githubusercontent.com/102362172/215463592-313ad5b3-a0ca-4ecf-a47d-564513a64dd0.png" />
       </a>
       <br />
       <p align="center">
