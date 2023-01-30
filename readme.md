@@ -194,27 +194,25 @@ Here are some ideas to get you started:
       </p>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Marketing Firm Website</h3>
+      <h3 align="center">TicketBuddy</h3>
       <br />
-      <a href="https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
-        <img src="https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/4017934-Homepage-Wireframe-for-Marketing-Website/1920x1080.png" />
+      <a href="https://github.com/NicoletaSerban/TicketBuddy" target="_blank">
+        <img src="https://user-images.githubusercontent.com/102362172/215463592-313ad5b3-a0ca-4ecf-a47d-564513a64dd0.png"/>
+
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/static-websites/tree/main/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
+        <a href="https://github.com/NicoletaSerban/TicketBuddy" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, and git</strong> - Website of a Marketing & Design Firm
+        <strong>HTML, CSS, Bootstrap</strong> - Full stack app 
       </p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Khan Academy Clone</h3>
       <br />
       <a href="https://rascaltwo.github.io/static-websites/Khan-Academy" target="_blank">
@@ -232,8 +230,8 @@ Here are some ideas to get you started:
       <p>
         <strong>HTML, CSS, and git</strong> - Clone of Khan Academy
       </p>
-    </td>
-  </tr> -->
+    </td> -->
+  </tr>
 </table>
 
 
