@@ -171,7 +171,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        <strong>TML, CSS, JavaScript, Node.js, EJS, Express, Tailwindcss and NPM</strong> - maintenance management app for hotels, inns, and other similar establishments
+        <strong>HTML, CSS, JavaScript, Node.js, EJS, Express, Tailwindcss and NPM</strong> - maintenance management app for hotels, inns, and other similar establishments
       </p>
     </td>
     <td width="50%" valign="top">
@@ -208,7 +208,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, Bootstrap</strong> - Full stack app 
+        <strong>HTML, CSS, Bootstrap</strong> - Full stack app to keep track of the tasks
       </p>
     </td>
 <!--     <td width="50%" valign="top">
