@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-## <div align="center">I am Nicoleta. An adaptable, detail-oriented software engineer with a passion for developing creative and efficient solutions to complex problems.</div>  
+## <div align="center">I am Nicoleta. A software engineer who loves tackling complex problems with creative and efficient solutions. I pay close attention to details and always strive to adapt to any situation. It's my passion to develop innovative solutions that make a positive impact..</div>  
   
 
 <br/>  
