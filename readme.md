@@ -78,10 +78,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=ADD8E6&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=ADD8E6&style=plastic&logo=css3"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=ADD8E6&style=plastic&logo=bootstrap"/> -->
+<img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=ADD8E6&style=plastic&logo=bootstrap"/> 
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=7393B3&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=7393B3&style=plastic&logo=react"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=ANGULAR.JS&color=7393B3&style=plastic&logo=angular"/>
+<img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> 
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=7393B3&style=plastic&logo=python"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=CCCCFF&style=plastic&logo=node.js"/>
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
